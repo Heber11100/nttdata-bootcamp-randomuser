@@ -10,7 +10,7 @@ Este proyecto implementa una arquitectura **cliente/servidor**:
 
 ## 📦 Instalación
 ```bash
-git clone <nttdata-bootcamp-randomuser.git>
+git clone <tu-repo.git>
 cd nttdata-bootcamp-randomuser
 npm install
 npm run start
