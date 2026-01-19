@@ -1,0 +1,17 @@
+{
+  "name": "nttdata-bootcamp-randomuser",
+  "version": "1.0.0",
+  "description": "Servicio REST + SPA que lista 10 personas usando RandomUser",
+  "type": "module",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2",
+    "node-fetch": "^3.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
